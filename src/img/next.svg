@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="10" height="15"
+  viewBox="0 0 10 15" style="fill:transparent"
+>
+  <polyline points="0,0 10,7.5 0,15" style="stroke:#c0301c;stroke-width:1"/>
+</svg>
