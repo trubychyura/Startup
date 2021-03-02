@@ -216,7 +216,7 @@ body {
 }
 
 .burger-menu {
-  display: none;
+  display: flex;
   position: fixed;
   top: -100%;
   left: 0;
@@ -233,6 +233,7 @@ body {
 }
 
 .burger-menu_active {
+  display: flex;
   top: 0;
 }
 
